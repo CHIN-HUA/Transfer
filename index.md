@@ -3,22 +3,43 @@
 <span style="color:red;">台聯大</span>
 ===>清交資工&工工+交大電機
     <br>考科:
-    <br>[微積分]，考題不算特別難，但沒念到後面，一定不會寫
-    <br>[計概]，非常簡單，全選擇，有念書寫考古一定部會太差
-    <br>[英文]，pass
+    <br><span style="color:blue;">[微積分]</span>，考題不算特別難，但沒念到後面，一定不會寫
+    <br><span style="color:blue;">[計概]</span>，非常簡單，全選擇，有念書寫考古一定部會太差
+    <br><span style="color:blue;">[英文]</span>，pass
 
 
-台師大
+<span style="color:red;">台師大</span>
 ===>資工
     <br>考科:
     <br>[微積分]，考題中等偏易
     <br>[計概]，超級難，全申論
 
-彰師大
+
+<span style="color:red;">彰師大</span>
 ===>電機
     <br>考科:
     <br>[微積分]，考題中等
     <br>[英文]，我覺得蠻難的，但卻考的不錯
+
+
+<span style="color:red;">淡江</span>
+===>電機&資工
+    <br>考科:
+    <br>[微積分]，考題簡單，我考了90
+    <br>[英文]，pass
+
+    
+<span style="color:red;">元智</span>
+===>工工&資工，工工正取一
+    <br>考科:
+    <br>[微積分]，考題簡單
+    <br>[計概]，pass
+
+元智
+===>工工&資工，工工正取一
+    <br>考科:
+    <br>[微積分]，考題簡單
+    <br>[計概]，pass
 
 
 
