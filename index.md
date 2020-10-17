@@ -48,10 +48,14 @@
 
 ## 參考書籍和資料
 
-<br>微積分學習要訣<img src="https://cf.shopee.tw/file/c3bb05e3ddf78b0c3d1ae77ec4e5c400">
+<br>微積分學習要訣
+<br><img src="https://cf.shopee.tw/file/c3bb05e3ddf78b0c3d1ae77ec4e5c400">
 
-<br>紅鶴書<img src="https://cf-assets2.tenlong.com.tw/products/images/000/119/544/original/41l-8ANsfoL.jpg?1526571723">
+<br>紅鶴書
+<br><img src="https://cf-assets2.tenlong.com.tw/products/images/000/119/544/original/41l-8ANsfoL.jpg?1526571723">
 
+<br>C 程式設計藝術, 7/e (國際中文版)
+<br><img src="https://cf-assets1.tenlong.com.tw/images/78249/original/06146017.jpg">
 
 
 
