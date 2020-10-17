@@ -1,8 +1,11 @@
 ## 我的轉學經歷
 
-台聯大
+`台聯大`===>清交資工&工工+交大電機
+    考科:
+    [微積分]，考題不算特別難，但沒念到後面，一定不會寫
+    [計概]，非常簡單，全選擇，有念書寫考古一定部會太差
+    [英文]，pass
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
