@@ -3,7 +3,7 @@
 <span style="color:red;">台聯大</span>
 ===>清交資工&工工+交大電機
     <br>考科:
-    <br><span style="color:blue;">[微積分]</span>，考題不算特別難，但沒念到後面，一定不會寫                  
+    <span style="color:blue;">[微積分]</span>，考題不算特別難，但沒念到後面，一定不會寫                  
     <br><span style="color:blue;">[計概]</span>，非常簡單，全選擇，有念書寫考古一定部會太差
     <br><span style="color:blue;">[英文]</span>，pass
 
