@@ -46,7 +46,10 @@
     <br>考科:
     <br><span style="color:blue;">[書審]</span>
 
-### 心得
+## 參考書籍和資料
+
+<br>微積分學習要訣<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sanmin.com.tw%2Fproduct%2Findex%2F000363689&psig=AOvVaw3pQKrr33FmwMq9Purl79Hk&ust=1603011046798000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjFrNKfu-wCFQAAAAAdAAAAABAD">
+
 
 
 
