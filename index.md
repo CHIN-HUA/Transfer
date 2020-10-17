@@ -48,7 +48,9 @@
 
 ## 參考書籍和資料
 
-<br>微積分學習要訣<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sanmin.com.tw%2Fproduct%2Findex%2F000363689&psig=AOvVaw3pQKrr33FmwMq9Purl79Hk&ust=1603011046798000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjFrNKfu-wCFQAAAAAdAAAAABAD">
+<br>微積分學習要訣<img src="https://cf.shopee.tw/file/c3bb05e3ddf78b0c3d1ae77ec4e5c400">
+
+<br>紅鶴書<img src="https://cf-assets2.tenlong.com.tw/products/images/000/119/544/original/41l-8ANsfoL.jpg?1526571723">
 
 
 
